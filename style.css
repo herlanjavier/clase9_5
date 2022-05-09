@@ -1,0 +1,18 @@
+body{
+    background-color: beige;
+    color: blue;
+}
+.nombre{
+    background-color: bisque;
+    color: brown;
+    font-size: 30px;
+    padding: 15px;
+    margin: 5px;
+    text-align: center;
+    font-weight: 800;
+}
+.titulo{
+    text-align: center;
+    margin: 5px;
+    padding: 15px;
+}
